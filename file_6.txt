@@ -1,4 +1,0 @@
-литература:   50 (lecture)   20 (practice) - (lab)
-математика:    - (lecture)   10 (practice)    5 (lab)
-физика:     30 (lecture)   - (practice)     3 (lab)
-
